@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrtestingtry4.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "X:\\Unity Stuff\\VR Testing Try 4\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR Testing Try 4 [Testing]"
+        }
+      }
+    }
+  ]
+}
